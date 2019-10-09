@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">modulflamy</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ok">Ok</string>
+    <string name="tvEmptyListText">Ничего не найдено(</string>
+    <string name="tvSearchStart">Введите запрос</string>
+    <string name="tvEmptyFavText">У вас нет сохраненных вопросов</string>
+    <string name="favorites">Избранное</string>
+    <string name="search">Поиск</string>
+    <string name="no_answers">На этот вопрос нет ответов</string>
+
+
+    <string name="fromFavToAnsTAG">FROM FAV TO ANS</string>
+    <string name="fromSearchToAnsTAG">FROM SEARCH TO ANS</string>
+    <string name="fromSearchToFavTAG">FROM SEARCH TO FAV</string>
+    <string name="toSearchTAG">TO SEARCH</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+</resources>
